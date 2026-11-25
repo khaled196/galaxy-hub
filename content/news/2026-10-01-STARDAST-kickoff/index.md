@@ -1,0 +1,19 @@
+---
+authors: "Teresa M\xFCller"
+date: '2026-10-01'
+external_url: https://training.galaxyproject.org/training-material/news/2026/10/01/STARDAST-kickoff.html
+main_subsite: global
+subsites:
+- all
+tags:
+- training
+- gtn-news
+- news
+- kickoff
+- RDM
+tease: On September 29 and 30, the STARDAST consortium met for the first time to officially
+  kick off the project
+title: 'Kick-off of STARDAST: Professionalising Data Stewardship Across Europe'
+
+---
+On September 29 and 30, the STARDAST consortium met for the first time to officially kick off the project. STARDAST (STEWARDSHIP AND RECOGNITION FOR DATA SCIENCE TALENT) is a Horizon Europe project bringing together 19 partners from nine countries.
